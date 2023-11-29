@@ -10,9 +10,9 @@ Each student should put an 'X' under their name on the days they attend class.
 |-------------|-----------|-----------|-----------|
 | Nov 8 (Wed) |    X       |     x      |           |
 | Nov 10 (Fri)|     x      |      X     |           |
-| Nov 15 (Wed)|           |           |           |
-| Nov 17 (Fri)|           |           |           |
-| *Nov 22 (Wed)* |       |           |           |  <!-- Skipped for Thanksgiving -->
+| Nov 15 (Wed)|        x   |       x    |           |
+| Nov 17 (Fri)|           |      x     |           |
+| *Nov 22 (Wed)* |       |      x     |           |  <!-- Skipped for Thanksgiving -->
 | *Nov 24 (Fri)* |       |           |           |  <!-- Skipped for Thanksgiving -->
 
 ### December 2023
