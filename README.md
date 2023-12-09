@@ -26,3 +26,11 @@ Each student should put an 'X' under their name on the days they attend class.
 | Dec 13 (Wed)|           |           |           |
 
 *Instructions: Please place an 'X' in the cell under your name corresponding to the dates you attend class.*
+
+-----------------------------------------------------
+
+Component library is NEXT UI
+
+James Quintas is developer
+
+Sebastian Lopez is Designer 
