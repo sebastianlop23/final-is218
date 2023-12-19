@@ -1,0 +1,702 @@
+.ellipseDiv,
+.main3Child,
+.main3Child1,
+.main3Inner,
+.main3Item {
+  position: absolute;
+  top: -278px;
+  left: -364px;
+  border-radius: 50%;
+  background-color: rgba(42, 52, 146, 0.25);
+  filter: blur(112.2px);
+  width: 787px;
+  height: 787px;
+}
+.ellipseDiv,
+.main3Child1,
+.main3Inner,
+.main3Item {
+  top: 4620px;
+  left: 334px;
+}
+.ellipseDiv,
+.main3Child1,
+.main3Inner {
+  top: 434px;
+  left: 1016px;
+  background-color: rgba(239, 68, 35, 0.25);
+  width: 642px;
+  height: 642px;
+}
+.ellipseDiv,
+.main3Child1 {
+  top: 3346px;
+  left: 1196px;
+  background-color: rgba(255, 149, 38, 0.25);
+  width: 1174px;
+  height: 1174px;
+}
+.main3Child1 {
+  top: 2936px;
+  left: -102px;
+  background-color: rgba(239, 68, 35, 0.25);
+  width: 642px;
+  height: 785px;
+}
+.navbarChild,
+.navbarInner,
+.navbarItem {
+  position: absolute;
+  top: 38px;
+  left: 0;
+  background-color: #d9d9d9;
+  border: 10px solid #2a3492;
+  box-sizing: border-box;
+  width: 1462px;
+  height: 134px;
+}
+.navbarInner,
+.navbarItem {
+  top: 15px;
+  border: 10px solid #ef4423;
+  height: 147px;
+}
+.navbarInner {
+  top: 0;
+  background-color: #e5e5e5;
+  border: 10px solid #ff9526;
+  height: 152px;
+}
+.pixeloasis {
+  position: absolute;
+  top: 50px;
+  left: 72px;
+}
+.home {
+  position: relative;
+  font-weight: 500;
+}
+.homeParent {
+  position: absolute;
+  top: 61px;
+  left: 991px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  gap: 36px;
+  font-size: 26px;
+}
+.navbar {
+  position: absolute;
+  top: -15px;
+  left: -11px;
+  width: 1462px;
+  height: 172px;
+  font-size: 45px;
+}
+.groupChild,
+.groupInner,
+.groupItem {
+  position: absolute;
+  bottom: -70.95px;
+  left: 1462px;
+  background-color: #d9d9d9;
+  border: 10px solid #2a3492;
+  box-sizing: border-box;
+  width: 1462px;
+  height: 99.03px;
+  transform: rotate(-180deg);
+  transform-origin: 0 0;
+}
+.groupInner,
+.groupItem {
+  bottom: -97.55px;
+  border: 10px solid #ef4423;
+  height: 108.64px;
+}
+.groupInner {
+  bottom: -112.33px;
+  background-color: #e5e5e5;
+  border: 10px solid #ff9526;
+  height: 112.33px;
+}
+.rectangleParent {
+  bottom: 0;
+  left: 0;
+  width: 1462px;
+  height: 127.11px;
+}
+.homeGroup,
+.po,
+.rectangleParent {
+  position: absolute;
+}
+.po {
+  bottom: 45.09px;
+  left: 71px;
+  display: inline-block;
+  width: 55px;
+  height: 39.91px;
+}
+.homeGroup {
+  bottom: 48.76px;
+  left: 884px;
+  height: 22.91px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  gap: 36px;
+  font-size: 26px;
+}
+.footer {
+  position: absolute;
+  bottom: -11px;
+  left: -11px;
+  width: 1462px;
+  height: 127.11px;
+  font-size: 45px;
+}
+.free1MonthTrial,
+.signUpFor {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.free1MonthTrial {
+  top: 37px;
+  font-family: "Pixelify Sans";
+  width: 474px;
+  height: 175px;
+}
+.signUpFor {
+  top: 243px;
+  font-size: 26px;
+  width: 445px;
+  height: 116px;
+}
+.signUp {
+  position: relative;
+}
+.signUpWrapper {
+  position: absolute;
+  top: 388px;
+  left: -2px;
+  border-radius: 20px;
+  background: linear-gradient(180deg, #ff9526, #ef4423 65.79%, #2a3492);
+  border: 4px solid #000;
+  box-sizing: border-box;
+  width: 250px;
+  height: 64px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 18px 15px;
+  cursor: pointer;
+  font-size: 22px;
+}
+.dalle20231208011529A,
+.hero {
+  position: absolute;
+  height: 486px;
+}
+.dalle20231208011529A {
+  top: 0;
+  left: 652px;
+  width: 486px;
+  object-fit: cover;
+}
+.hero {
+  top: 237px;
+  left: 159px;
+  width: 1138px;
+  font-family: "Space Mono";
+}
+.communityChild,
+.communityInner,
+.communityItem {
+  position: absolute;
+  top: 53px;
+  left: 0;
+  border-radius: 50%;
+  background-color: rgba(42, 52, 146, 0.25);
+  filter: blur(112.2px);
+  width: 499px;
+  height: 499px;
+}
+.communityInner,
+.communityItem {
+  top: 217px;
+  left: 151px;
+  background-color: rgba(239, 68, 35, 0.25);
+  width: 408px;
+  height: 407px;
+}
+.communityInner {
+  top: 0;
+  left: 350px;
+  background-color: rgba(255, 149, 38, 0.25);
+  width: 407px;
+}
+.throughSpecialEvents,
+.weRunBy {
+  position: absolute;
+  top: 158px;
+  left: 703px;
+  display: inline-block;
+  width: 400px;
+  height: 120px;
+}
+.throughSpecialEvents {
+  top: 303px;
+  font-size: 26px;
+  font-family: "Space Mono";
+  height: 166px;
+}
+.communityIcon61 {
+  position: absolute;
+  top: 94px;
+  left: 81px;
+  width: 418px;
+  height: 418px;
+  object-fit: cover;
+}
+.community {
+  position: absolute;
+  top: 1966px;
+  left: 168px;
+  width: 1103px;
+  height: 624px;
+}
+.upcomingTournaments {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 297px);
+  display: inline-block;
+  width: 593px;
+  height: 62px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 25px;
+  background-color: #e5e5e5;
+  border: 4px solid #000;
+  box-sizing: border-box;
+  width: 551px;
+  height: 383px;
+}
+.classicArcade {
+  position: absolute;
+  top: 36px;
+  left: 44px;
+  display: inline-block;
+  width: 443px;
+}
+.dec1st {
+  margin: 0;
+}
+.dec1stGamesContainer {
+  position: absolute;
+  top: 113px;
+  left: 43px;
+  font-size: 26px;
+  font-family: "Space Mono";
+  display: inline-block;
+  width: 457px;
+  height: 216px;
+}
+.rectangleGroup {
+  position: absolute;
+  top: 122px;
+  left: 0;
+  width: 551px;
+  height: 383px;
+}
+.segaNight {
+  position: absolute;
+  top: 36px;
+  left: 44px;
+  display: inline-block;
+  width: 289px;
+}
+.rectangleContainer {
+  position: absolute;
+  top: 525px;
+  left: 0;
+  width: 551px;
+  height: 383px;
+}
+.atariTime {
+  position: absolute;
+  top: 36px;
+  left: 44px;
+  display: inline-block;
+  width: 280px;
+}
+.groupDiv {
+  position: absolute;
+  top: 525px;
+  left: 571px;
+  width: 551px;
+  height: 383px;
+}
+.dec8thGamesContainer,
+.nesMarathon {
+  position: absolute;
+  display: inline-block;
+}
+.dec8thGamesContainer {
+  top: 113px;
+  left: 43px;
+  width: 457px;
+  height: 216px;
+}
+.nesMarathon {
+  top: 36px;
+  left: 44px;
+  font-size: 50px;
+  font-family: "Pixelify Sans";
+  width: 367px;
+}
+.rectangleParent1 {
+  position: absolute;
+  top: 122px;
+  left: 571px;
+  width: 551px;
+  height: 383px;
+  font-size: 26px;
+  font-family: "Space Mono";
+}
+.exclusiveMerch,
+.tournaments2 {
+  position: absolute;
+  top: 855px;
+  left: calc(50% - 561px);
+  width: 1122px;
+  height: 908px;
+}
+.exclusiveMerch {
+  top: 0;
+  left: calc(50% - 218px);
+  display: inline-block;
+  width: 436px;
+  height: 62px;
+}
+.buyNow80sRetroGamingTshirIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 26px;
+  width: 419px;
+  height: 383px;
+  object-fit: cover;
+}
+.atarishotGrande1Icon,
+.buyNow80sRetroGamingTshirWrapper {
+  position: absolute;
+  top: 122px;
+  left: 0;
+  width: 419px;
+  height: 383px;
+}
+.atarishotGrande1Icon {
+  top: 525px;
+  left: 784px;
+  border-radius: 25px;
+  width: 338px;
+  object-fit: cover;
+}
+.a1nynisnpelAcCla21402000Icon,
+.levelonedonkeykongshirt80steesIcon,
+.o80q5ej3l1Icon {
+  position: absolute;
+  top: 525px;
+  left: 0;
+  border-radius: 25px;
+  width: 285px;
+  height: 383px;
+  object-fit: cover;
+}
+.a1nynisnpelAcCla21402000Icon,
+.levelonedonkeykongshirt80steesIcon {
+  top: 122px;
+  left: 441px;
+  width: 681px;
+}
+.levelonedonkeykongshirt80steesIcon {
+  top: 525px;
+  left: 307px;
+  width: 453px;
+}
+.merch2,
+.pricing {
+  position: absolute;
+  top: 2765px;
+  left: calc(50% - 561px);
+  width: 1122px;
+  height: 908px;
+}
+.pricing {
+  top: 0;
+  left: calc(50% - 104.5px);
+  display: inline-block;
+  font-family: "Pixelify Sans";
+  width: 209px;
+  height: 62px;
+}
+.groupChild4,
+.monthWrapper {
+  position: absolute;
+  box-sizing: border-box;
+}
+.groupChild4 {
+  top: 0;
+  left: 0;
+  border-radius: 25px;
+  background-color: #e5e5e5;
+  border: 4px solid #000;
+  width: 361px;
+  height: 675px;
+}
+.monthWrapper {
+  top: 557px;
+  left: 29px;
+  border-radius: 20px;
+  width: 299px;
+  height: 93px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 18px 15px;
+}
+.accessToOur,
+.player {
+  position: absolute;
+  display: inline-block;
+}
+.player {
+  top: 63px;
+  left: 29px;
+  font-size: 50px;
+  font-family: "Pixelify Sans";
+  width: 290px;
+  height: 76px;
+}
+.accessToOur {
+  top: 169px;
+  left: 28.17px;
+  font-size: 26px;
+  width: 299.41px;
+  height: 380.68px;
+}
+.groupChild5,
+.rectangleParent2 {
+  position: absolute;
+  left: 0;
+  height: 675px;
+}
+.rectangleParent2 {
+  top: 122px;
+  width: 361px;
+  font-size: 22px;
+}
+.groupChild5 {
+  top: 0;
+  border-radius: 25px;
+  background-color: #e5e5e5;
+  border: 4px solid #000;
+  box-sizing: border-box;
+  width: 360px;
+}
+.master,
+.monthContainer {
+  position: absolute;
+  left: 29px;
+}
+.master {
+  top: 63px;
+  display: inline-block;
+  font-family: "Pixelify Sans";
+  width: 189px;
+  height: 67px;
+}
+.monthContainer {
+  top: 557px;
+  border-radius: 20px;
+  width: 299px;
+  height: 93px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 18px 15px;
+  box-sizing: border-box;
+  font-size: 22px;
+}
+.accessToOurContainer1,
+.member {
+  position: absolute;
+  top: 169px;
+  left: 28.17px;
+  display: inline-block;
+  width: 299.41px;
+  height: 380.68px;
+}
+.member {
+  top: 63px;
+  left: 29px;
+  font-size: 50px;
+  font-family: "Pixelify Sans";
+  width: 240px;
+  height: 67px;
+}
+.rectangleParent4 {
+  position: absolute;
+  top: 122px;
+  left: 381px;
+  width: 360px;
+  height: 675px;
+  font-size: 26px;
+}
+.experience {
+  position: absolute;
+  top: 3848px;
+  left: calc(50% - 561px);
+  width: 1121px;
+  height: 797px;
+  font-family: "Space Mono";
+}
+.julio,
+.testimonials {
+  position: absolute;
+  display: inline-block;
+}
+.testimonials {
+  top: 0;
+  left: calc(50% - 180.5px);
+  width: 361px;
+  height: 62px;
+}
+.julio {
+  top: 336px;
+  left: 29px;
+  width: 290px;
+  height: 54px;
+}
+.experienceInner,
+.rectangleParent5 {
+  position: absolute;
+  top: 122px;
+  left: 0;
+  width: 361px;
+  height: 675px;
+}
+.experienceInner {
+  left: 761px;
+  width: 360px;
+}
+.dalle20231209173138A,
+.groupChild9 {
+  position: absolute;
+  border-radius: 25px;
+}
+.groupChild9 {
+  top: 0;
+  left: 353px;
+  background-color: #e5e5e5;
+  border: 4px solid #000;
+  box-sizing: border-box;
+  width: 360px;
+  height: 675px;
+}
+.dalle20231209173138A {
+  top: 24px;
+  left: 0;
+  width: 306px;
+  height: 298px;
+  object-fit: cover;
+}
+.rectangleParent6 {
+  position: absolute;
+  top: 122px;
+  left: 28px;
+  width: 713px;
+  height: 675px;
+}
+.experience1 {
+  position: absolute;
+  top: 4820px;
+  left: calc(50% - 563px);
+  width: 1121px;
+  height: 797px;
+}
+.alex,
+.iDidntKnow {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  display: inline-block;
+  width: 290px;
+  height: 54px;
+}
+.iDidntKnow {
+  top: 82px;
+  left: 0;
+  font-size: 26px;
+  font-family: "Space Mono";
+  width: 300px;
+  height: 204px;
+}
+.alexParent,
+.markParent {
+  position: absolute;
+  top: 5280px;
+  left: 568px;
+  width: 300px;
+  height: 286px;
+}
+.markParent {
+  left: 949px;
+}
+.dalle20231209173050A,
+.dalle20231209173059A {
+  position: absolute;
+  top: 4966px;
+  left: 949px;
+  border-radius: 25px;
+  width: 298px;
+  height: 298px;
+  object-fit: cover;
+}
+.dalle20231209173050A {
+  left: 569px;
+}
+.ofAllSubscriptions {
+  position: absolute;
+  top: 5360px;
+  left: 185px;
+  font-size: 26px;
+  font-family: "Space Mono";
+  display: inline-block;
+  width: 300px;
+  height: 204px;
+}
+.main3 {
+  position: relative;
+  background-color: #e5e5e5;
+  width: 100%;
+  height: 5776px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 50px;
+  color: #000;
+  font-family: "Pixelify Sans";
+}
